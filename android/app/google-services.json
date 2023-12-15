@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "121606503732",
+    "firebase_url": "https://cloudlab1-7f832-default-rtdb.firebaseio.com",
+    "project_id": "cloudlab1-7f832",
+    "storage_bucket": "cloudlab1-7f832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121606503732:android:42ec448f68410b76eff961",
+        "android_client_info": {
+          "package_name": "com.example.faculty_lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rH_7MPpZxB3LL1Rq3PuL8OuzdRqgOBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
